@@ -1,0 +1,9 @@
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+*.pem
+*.key
+.env
+credentials
+*.zip
